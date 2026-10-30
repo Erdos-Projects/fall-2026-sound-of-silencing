@@ -1,0 +1,183 @@
+"ontology","node_id","node_name","raw_p_low_rank","raw_p_high_rank","FWER_low_rank","FWER_high_rank","best_FWER","direction_of_smaller_FWER","significant_FWER_0_05"
+"biological_process","GO:0006139","nucleobase-containing compound metabolic process",1,0,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0006725","cellular aromatic compound metabolic process",1,0,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0010467","gene expression",1,0,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0016070","RNA metabolic process",1,0,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0034641","cellular nitrogen compound metabolic process",1,0,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0043170","macromolecule metabolic process",1,0,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0046483","heterocycle metabolic process",1,0,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0060255","regulation of macromolecule metabolic process",1,0,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0090304","nucleic acid metabolic process",1,0,1,0,0,"Human-higher",TRUE
+"biological_process","GO:1901360","organic cyclic compound metabolic process",1,0,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0099536","synaptic signaling",5.97113846262832e-28,1,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0007268","chemical synaptic transmission",4.96968067503828e-27,1,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0098916","anterograde trans-synaptic signaling",4.96968067503828e-27,1,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0099537","trans-synaptic signaling",1.11796651576828e-26,1,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0050804","modulation of chemical synaptic transmission",7.26488945476242e-17,1,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0099177","regulation of trans-synaptic signaling",7.26488945476242e-17,1,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0009889","regulation of biosynthetic process",1,1.11022302462516e-16,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0010556","regulation of macromolecule biosynthetic process",1,1.11022302462516e-16,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0019219","regulation of nucleobase-containing compound metabolic process",1,1.11022302462516e-16,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0031326","regulation of cellular biosynthetic process",1,1.11022302462516e-16,1,0,0,"Human-higher",TRUE
+"biological_process","GO:2000112","regulation of cellular macromolecule biosynthetic process",1,1.11022302462516e-16,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0006810","transport",2.53604154236094e-16,1,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0007267","cell-cell signaling",2.54716991390163e-16,1,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0010468","regulation of gene expression",1,3.33066907387547e-16,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0140352","export from cell",5.62939233690071e-16,0.999999999999999,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0034645","cellular macromolecule biosynthetic process",0.999999999999999,9.99200722162641e-16,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0080090","regulation of primary metabolic process",0.999999999999999,1.11022302462516e-15,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0009059","macromolecule biosynthetic process",0.999999999999999,1.4432899320127e-15,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0051234","establishment of localization",3.05485699888276e-15,0.999999999999997,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0051252","regulation of RNA metabolic process",0.999999999999997,3.33066907387547e-15,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0098660","inorganic ion transmembrane transport",4.42682721061253e-15,0.999999999999996,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0019222","regulation of metabolic process",0.999999999999995,4.88498130835069e-15,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0051171","regulation of nitrogen compound metabolic process",0.999999999999995,5.32907051820075e-15,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0006811","ion transport",1.11280460938906e-14,0.999999999999989,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006807","nitrogen compound metabolic process",0.999999999999975,2.50910403565285e-14,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0055085","transmembrane transport",4.34713140800434e-14,0.999999999999956,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0098662","inorganic cation transmembrane transport",5.36938970946286e-14,0.999999999999946,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006812","cation transport",6.52828758454366e-14,0.999999999999935,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0032940","secretion by cell",7.17670863368369e-14,0.999999999999928,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0098655","cation transmembrane transport",1.37569657224109e-13,0.999999999999862,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0032774","RNA biosynthetic process",0.999999999999806,1.94400051611865e-13,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0071704","organic substance metabolic process",0.999999999999735,2.647881913731e-13,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0006351","transcription, DNA-templated",0.999999999999637,3.63153951354889e-13,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0097659","nucleic acid-templated transcription",0.999999999999637,3.63153951354889e-13,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0044260","cellular macromolecule metabolic process",0.999999999999585,4.14890344302421e-13,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0044271","cellular nitrogen compound biosynthetic process",0.999999999999571,4.29545288227473e-13,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0031323","regulation of cellular metabolic process",0.99999999999948,5.19695397827036e-13,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0046903","secretion",8.5962880673749e-13,0.99999999999914,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0034220","ion transmembrane transport",9.34110747821297e-13,0.999999999999066,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:2001141","regulation of RNA biosynthetic process",0.999999999999014,9.85989068169602e-13,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0006355","regulation of transcription, DNA-templated",0.99999999999886,1.13986597938265e-12,1,0,0,"Human-higher",TRUE
+"biological_process","GO:1903506","regulation of nucleic acid-templated transcription",0.99999999999886,1.13986597938265e-12,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0051179","localization",1.33925548219787e-12,0.999999999998661,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0044238","primary metabolic process",0.999999999998284,1.7160717291631e-12,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0050877","nervous system process",3.0462398709891e-12,0.999999999996954,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0034654","nucleobase-containing compound biosynthetic process",0.99999999999386,6.1398663930845e-12,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0018130","heterocycle biosynthetic process",0.999999999991803,8.19722068001738e-12,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0042391","regulation of membrane potential",1.28438890993457e-11,0.999999999987158,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0019438","aromatic compound biosynthetic process",0.999999999981864,1.81366033302766e-11,1,0,0,"Human-higher",TRUE
+"biological_process","GO:1901362","organic cyclic compound biosynthetic process",0.999999999975391,2.46102027645634e-11,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0009058","biosynthetic process",0.999999999964182,3.58196805549937e-11,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0044249","cellular biosynthetic process",0.999999999961125,3.88767906756016e-11,1,0,0,"Human-higher",TRUE
+"biological_process","GO:1901576","organic substance biosynthetic process",0.999999999956491,4.35113056695968e-11,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0003008","system process",4.46084367132745e-11,0.999999999955395,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0050808","synapse organization",4.68354788708755e-11,0.99999999995317,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006836","neurotransmitter transport",7.77553490443857e-11,0.999999999922259,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0008152","metabolic process",0.999999999906763,9.32411925447241e-11,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0099504","synaptic vesicle cycle",1.22910195536997e-10,0.999999999877111,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0016071","mRNA metabolic process",0.999999999855116,1.44897760456786e-10,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0007269","neurotransmitter secretion",2.36124208403986e-10,0.999999999763924,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0099643","signal release from synapse",2.36124208403986e-10,0.999999999763924,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0048167","regulation of synaptic plasticity",2.80693075070956e-10,0.999999999719355,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0050890","cognition",3.15657629844252e-10,0.999999999684389,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0001505","regulation of neurotransmitter levels",3.47618374140874e-10,0.999999999652445,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0007610","behavior",4.19337300764181e-10,0.999999999580706,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0099003","vesicle-mediated transport in synapse",4.38652370131384e-10,0.999999999561417,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0051049","regulation of transport",5.36775168232725e-10,0.999999999463263,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006887","exocytosis",6.02575787472993e-10,0.99999999939751,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0023061","signal release",6.42982893762889e-10,0.999999999357098,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0007611","learning or memory",7.49081028732453e-10,0.999999999251033,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0060078","regulation of postsynaptic membrane potential",1.11638465120834e-09,0.999999998883849,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:1903530","regulation of secretion by cell",2.5577852934473e-09,0.999999997442509,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006813","potassium ion transport",2.61349314654093e-09,0.999999997386953,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0050806","positive regulation of synaptic transmission",2.96168718886884e-09,0.99999999703887,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0044237","cellular metabolic process",0.99999999655982,3.44033257437815e-09,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0034330","cell junction organization",3.67577614323804e-09,0.999999996324543,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0008380","RNA splicing",0.999999994498628,5.50200118798472e-09,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0006366","transcription by RNA polymerase II",0.99999999348363,6.51673592866331e-09,1,0,0,"Human-higher",TRUE
+"biological_process","GO:0043269","regulation of ion transport",8.20094456825966e-09,0.9999999918,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0071805","potassium ion transmembrane transport",9.67768073412659e-09,0.999999990324017,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0016079","synaptic vesicle exocytosis",1.50994287109375e-08,0.999999984903867,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006357","regulation of transcription by RNA polymerase II",0.999999980173831,1.98272639417851e-08,1,0,0,"Human-higher",TRUE
+"biological_process","GO:1904062","regulation of cation transmembrane transport",2.04003797338387e-08,0.999999979602695,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0051046","regulation of secretion",2.35041643202402e-08,0.999999976498302,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0065008","regulation of biological quality",2.80754354075204e-08,0.99999997192584,0,1,0,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006397","mRNA processing",0.999999962360678,3.7643223871342e-08,1,1e-04,1e-04,"Human-higher",TRUE
+"biological_process","GO:0051649","establishment of localization in cell",4.82032894156213e-08,0.999999951799279,1e-04,1,1e-04,"Chimpanzee-higher",TRUE
+"biological_process","GO:0031327","negative regulation of cellular biosynthetic process",0.999999948261803,5.17414583400821e-08,1,1e-04,1e-04,"Human-higher",TRUE
+"biological_process","GO:0044057","regulation of system process",9.35744008416345e-08,0.999999906435229,1e-04,1,1e-04,"Chimpanzee-higher",TRUE
+"biological_process","GO:0007399","nervous system development",9.90483660372804e-08,0.999999900956589,1e-04,1,1e-04,"Chimpanzee-higher",TRUE
+"biological_process","GO:0009890","negative regulation of biosynthetic process",0.999999901097346,9.89086963443242e-08,1,2e-04,2e-04,"Human-higher",TRUE
+"biological_process","GO:0048666","neuron development",1.10179884127671e-07,0.99999988982768,2e-04,1,2e-04,"Chimpanzee-higher",TRUE
+"biological_process","GO:0051641","cellular localization",1.12453691470663e-07,0.999999887551536,2e-04,1,2e-04,"Chimpanzee-higher",TRUE
+"biological_process","GO:0000377","RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",0.999999881264365,1.18750368538478e-07,1,4e-04,4e-04,"Human-higher",TRUE
+"biological_process","GO:0000398","mRNA splicing, via spliceosome",0.999999881264365,1.18750368538478e-07,1,4e-04,4e-04,"Human-higher",TRUE
+"biological_process","GO:2000113","negative regulation of cellular macromolecule biosynthetic process",0.999999862470797,1.37537733424509e-07,1,4e-04,4e-04,"Human-higher",TRUE
+"biological_process","GO:0016192","vesicle-mediated transport",1.87228297559988e-07,0.999999812782965,4e-04,1,4e-04,"Chimpanzee-higher",TRUE
+"biological_process","GO:0010558","negative regulation of macromolecule biosynthetic process",0.999999807376505,1.92635264295582e-07,1,4e-04,4e-04,"Human-higher",TRUE
+"biological_process","GO:0034765","regulation of ion transmembrane transport",2.05214181739281e-07,0.999999794812302,4e-04,1,4e-04,"Chimpanzee-higher",TRUE
+"biological_process","GO:0000375","RNA splicing, via transesterification reactions",0.999999784248376,2.15777638201686e-07,1,5e-04,5e-04,"Human-higher",TRUE
+"biological_process","GO:0045934","negative regulation of nucleobase-containing compound metabolic process",0.999999775703,2.24311081042927e-07,1,6e-04,6e-04,"Human-higher",TRUE
+"biological_process","GO:0045055","regulated exocytosis",2.63301210550484e-07,0.999999736738533,7e-04,1,7e-04,"Chimpanzee-higher",TRUE
+"biological_process","GO:0048812","neuron projection morphogenesis",3.64532634929194e-07,0.999999635497736,9e-04,1,9e-04,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006396","RNA processing",0.999999358636098,6.41407564394569e-07,1,9e-04,9e-04,"Human-higher",TRUE
+"biological_process","GO:0051276","chromosome organization",0.999999293500226,7.06548081375047e-07,1,9e-04,9e-04,"Human-higher",TRUE
+"biological_process","GO:0007612","learning",5.3190919074518e-07,0.999999468175643,0.001,1,0.001,"Chimpanzee-higher",TRUE
+"biological_process","GO:0007613","memory",5.4696474492494e-07,0.999999453133118,0.001,1,0.001,"Chimpanzee-higher",TRUE
+"biological_process","GO:0055074","calcium ion homeostasis",6.495989133904e-07,0.999999350473473,0.0011,1,0.0011,"Chimpanzee-higher",TRUE
+"biological_process","GO:0048878","chemical homeostasis",6.54320586122005e-07,0.999999345724226,0.0011,1,0.0011,"Chimpanzee-higher",TRUE
+"biological_process","GO:0051588","regulation of neurotransmitter transport",6.57492277970925e-07,0.999999342639479,0.0011,1,0.0011,"Chimpanzee-higher",TRUE
+"biological_process","GO:0050801","ion homeostasis",8.01409723974178e-07,0.999999198656473,0.0019,1,0.0019,"Chimpanzee-higher",TRUE
+"biological_process","GO:0098727","maintenance of cell number",0.999998784328417,1.21586232615378e-06,1,0.0019,0.0019,"Human-higher",TRUE
+"biological_process","GO:0032989","cellular component morphogenesis",8.44080070679063e-07,0.999999155983669,0.002,1,0.002,"Chimpanzee-higher",TRUE
+"biological_process","GO:0017157","regulation of exocytosis",8.54502001823583e-07,0.999999145631833,0.002,1,0.002,"Chimpanzee-higher",TRUE
+"biological_process","GO:0120039","plasma membrane bounded cell projection morphogenesis",1.05950871185404e-06,0.999998940575194,0.0024,1,0.0024,"Chimpanzee-higher",TRUE
+"biological_process","GO:0019827","stem cell population maintenance",0.999998319746167,1.68051717674977e-06,1,0.0025,0.0025,"Human-higher",TRUE
+"biological_process","GO:0032990","cell part morphogenesis",1.11251643671183e-06,0.999998887571337,0.0026,1,0.0026,"Chimpanzee-higher",TRUE
+"biological_process","GO:0048858","cell projection morphogenesis",1.11251643671183e-06,0.999998887571337,0.0026,1,0.0026,"Chimpanzee-higher",TRUE
+"biological_process","GO:0031324","negative regulation of cellular metabolic process",0.999998185601662,1.81448752578639e-06,1,0.003,0.003,"Human-higher",TRUE
+"biological_process","GO:0051172","negative regulation of nitrogen compound metabolic process",0.999998145953514,1.85414020414942e-06,1,0.0032,0.0032,"Human-higher",TRUE
+"biological_process","GO:0046928","regulation of neurotransmitter secretion",1.432864141915e-06,0.99999856743772,0.0034,1,0.0034,"Chimpanzee-higher",TRUE
+"biological_process","GO:0051253","negative regulation of RNA metabolic process",0.999997871734392,2.12839169211332e-06,1,0.0037,0.0037,"Human-higher",TRUE
+"biological_process","GO:0072507","divalent inorganic cation homeostasis",1.6626850308952e-06,0.999998337485821,0.004,1,0.004,"Chimpanzee-higher",TRUE
+"biological_process","GO:0031175","neuron projection development",1.76986491926839e-06,0.999998230250391,0.0042,1,0.0042,"Chimpanzee-higher",TRUE
+"biological_process","GO:0001508","action potential",1.84152131436318e-06,0.999998158757305,0.0042,1,0.0042,"Chimpanzee-higher",TRUE
+"biological_process","GO:0007186","G protein-coupled receptor signaling pathway",2.00802835645926e-06,0.999997992137306,0.0044,1,0.0044,"Chimpanzee-higher",TRUE
+"biological_process","GO:0030001","metal ion transport",2.0383380522149e-06,0.999997961858764,0.0044,1,0.0044,"Chimpanzee-higher",TRUE
+"biological_process","GO:1902600","proton transmembrane transport",2.11826923945978e-06,0.999997882063604,0.0046,1,0.0046,"Chimpanzee-higher",TRUE
+"biological_process","GO:0099505","regulation of presynaptic membrane potential",2.3166380222907e-06,0.999997684149286,0.0047,1,0.0047,"Chimpanzee-higher",TRUE
+"biological_process","GO:0034762","regulation of transmembrane transport",2.33080636680055e-06,0.99999766943387,0.0048,1,0.0048,"Chimpanzee-higher",TRUE
+"biological_process","GO:0035249","synaptic transmission, glutamatergic",2.49743970042499e-06,0.999997503023305,0.0053,1,0.0053,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006974","cellular response to DNA damage stimulus",0.999997103962675,2.8962382042641e-06,1,0.0054,0.0054,"Human-higher",TRUE
+"biological_process","GO:0022402","cell cycle process",0.999996865308463,3.1348826695643e-06,1,0.0062,0.0062,"Human-higher",TRUE
+"biological_process","GO:0033554","cellular response to stress",0.999996548446114,3.45171986315673e-06,1,0.0071,0.0071,"Human-higher",TRUE
+"biological_process","GO:0055082","cellular chemical homeostasis",3.32702081632263e-06,0.999996673234714,0.0073,1,0.0073,"Chimpanzee-higher",TRUE
+"biological_process","GO:0010605","negative regulation of macromolecule metabolic process",0.999996496339102,3.50381977309855e-06,1,0.0073,0.0073,"Human-higher",TRUE
+"biological_process","GO:0098771","inorganic ion homeostasis",3.46880123677589e-06,0.999996531479256,0.0076,1,0.0076,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006874","cellular calcium ion homeostasis",3.49130778695002e-06,0.999996509063112,0.0076,1,0.0076,"Chimpanzee-higher",TRUE
+"biological_process","GO:0055080","cation homeostasis",3.6187290424041e-06,0.999996381564607,0.0079,1,0.0079,"Chimpanzee-higher",TRUE
+"biological_process","GO:0060291","long-term synaptic potentiation",3.88631094921707e-06,0.99999611441324,0.0081,1,0.0081,"Chimpanzee-higher",TRUE
+"biological_process","GO:0060996","dendritic spine development",3.97267733870532e-06,0.99999602806223,0.0083,1,0.0083,"Chimpanzee-higher",TRUE
+"biological_process","GO:0032879","regulation of localization",4.3303410232445e-06,0.999995669845615,0.0096,1,0.0096,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006816","calcium ion transport",4.4021749809332e-06,0.999995598284423,0.0099,1,0.0099,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006259","DNA metabolic process",0.99999540177301,4.59854262124804e-06,1,0.0099,0.0099,"Human-higher",TRUE
+"biological_process","GO:0009892","negative regulation of metabolic process",0.999995304444327,4.69575932449118e-06,1,0.01,0.01,"Human-higher",TRUE
+"biological_process","GO:0016082","synaptic vesicle priming",4.7856063982583e-06,0.999995215969616,0.0107,1,0.0107,"Chimpanzee-higher",TRUE
+"biological_process","GO:0098813","nuclear chromosome segregation",0.999995124773612,4.87579606600619e-06,1,0.0107,0.0107,"Human-higher",TRUE
+"biological_process","GO:0048667","cell morphogenesis involved in neuron differentiation",4.89739758543025e-06,0.99999510298997,0.0108,1,0.0108,"Chimpanzee-higher",TRUE
+"biological_process","GO:0030003","cellular cation homeostasis",5.17538471191547e-06,0.999994825050451,0.0118,1,0.0118,"Chimpanzee-higher",TRUE
+"biological_process","GO:0048699","generation of neurons",6.69879217495512e-06,0.999993301551235,0.0149,1,0.0149,"Chimpanzee-higher",TRUE
+"biological_process","GO:0045892","negative regulation of transcription, DNA-templated",0.999992867892384,7.13252316331126e-06,1,0.0169,0.0169,"Human-higher",TRUE
+"biological_process","GO:1902679","negative regulation of RNA biosynthetic process",0.999992867892384,7.13252316331126e-06,1,0.0169,0.0169,"Human-higher",TRUE
+"biological_process","GO:1903507","negative regulation of nucleic acid-templated transcription",0.999992867892384,7.13252316331126e-06,1,0.0169,0.0169,"Human-higher",TRUE
+"biological_process","GO:0050905","neuromuscular process",7.58242406178733e-06,0.999992418711703,0.017,1,0.017,"Chimpanzee-higher",TRUE
+"biological_process","GO:0030182","neuron differentiation",7.97542072559877e-06,0.999992025006446,0.0176,1,0.0176,"Chimpanzee-higher",TRUE
+"biological_process","GO:0022904","respiratory electron transport chain",9.34953796372251e-06,0.999990652135838,0.0206,1,0.0206,"Chimpanzee-higher",TRUE
+"biological_process","GO:0006323","DNA packaging",0.999990404595717,9.59678025669319e-06,1,0.0225,0.0225,"Human-higher",TRUE
+"biological_process","GO:0006873","cellular ion homeostasis",1.15206254514831e-05,0.999988480301046,0.0262,1,0.0262,"Chimpanzee-higher",TRUE
+"biological_process","GO:0030073","insulin secretion",1.18499199312551e-05,0.999988151748851,0.0273,1,0.0273,"Chimpanzee-higher",TRUE
+"biological_process","GO:0007215","glutamate receptor signaling pathway",1.18704154681848e-05,0.999988132211818,0.0273,1,0.0273,"Chimpanzee-higher",TRUE
+"biological_process","GO:0070588","calcium ion transmembrane transport",1.20907293530175e-05,0.999987910634674,0.0278,1,0.0278,"Chimpanzee-higher",TRUE
+"biological_process","GO:0034329","cell junction assembly",1.30649458478802e-05,0.999986936124278,0.0301,1,0.0301,"Chimpanzee-higher",TRUE
+"biological_process","GO:0072503","cellular divalent inorganic cation homeostasis",1.39981508548007e-05,0.999986003195435,0.0325,1,0.0325,"Chimpanzee-higher",TRUE
+"biological_process","GO:0015980","energy derivation by oxidation of organic compounds",1.49224277036767e-05,0.999985079183984,0.035,1,0.035,"Chimpanzee-higher",TRUE
+"biological_process","GO:0019646","aerobic electron transport chain",1.56594561820261e-05,0.999984343867063,0.0366,1,0.0366,"Chimpanzee-higher",TRUE
+"biological_process","GO:0071702","organic substance transport",1.59314139824275e-05,0.999984069247529,0.0373,1,0.0373,"Chimpanzee-higher",TRUE
+"biological_process","GO:0031644","regulation of nervous system process",1.6539758107387e-05,0.999983463036495,0.0384,1,0.0384,"Chimpanzee-higher",TRUE
+"biological_process","GO:0042773","ATP synthesis coupled electron transport",1.68470424876224e-05,0.999983156395442,0.0391,1,0.0391,"Chimpanzee-higher",TRUE
+"biological_process","GO:0042775","mitochondrial ATP synthesis coupled electron transport",1.68470424876224e-05,0.999983156395442,0.0391,1,0.0391,"Chimpanzee-higher",TRUE
+"biological_process","GO:0007049","cell cycle",0.999983491515522,1.65093118087434e-05,1,0.0392,0.0392,"Human-higher",TRUE
+"biological_process","GO:0071103","DNA conformation change",0.999983204165296,1.6798050877842e-05,1,0.0401,0.0401,"Human-higher",TRUE
+"biological_process","GO:0007416","synapse assembly",2.07468051054156e-05,0.999979255388719,0.0488,1,0.0488,"Chimpanzee-higher",TRUE

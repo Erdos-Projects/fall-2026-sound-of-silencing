@@ -1,0 +1,11 @@
+"node_id","ontology","node_name","raw_p_low_rank","raw_p_high_rank","FWER_low_rank","FWER_high_rank","refined_p_high_rank","signif"
+"GO:0019219","biological_process","regulation of nucleobase-containing compound metabolic process",1,1.11022302462516e-16,1,0,2.05712784628381e-05,TRUE
+"GO:2000112","biological_process","regulation of cellular macromolecule biosynthetic process",1,1.11022302462516e-16,1,0,1.71678836575423e-05,TRUE
+"GO:0006357","biological_process","regulation of transcription by RNA polymerase II",0.999999980173831,1.98272639417851e-08,1,0,1.98272639137945e-08,TRUE
+"GO:0000398","biological_process","mRNA splicing, via spliceosome",0.999999881264365,1.18750368538478e-07,1,4e-04,1.18750368525498e-07,TRUE
+"GO:0019827","biological_process","stem cell population maintenance",0.999998319746167,1.68051717674977e-06,1,0.0025,1.6805171767204e-06,TRUE
+"GO:0006974","biological_process","cellular response to DNA damage stimulus",0.999997103962675,2.8962382042641e-06,1,0.0054,2.89623820428435e-06,TRUE
+"GO:0006259","biological_process","DNA metabolic process",0.99999540177301,4.59854262124804e-06,1,0.0099,4.59854262124394e-06,TRUE
+"GO:0098813","biological_process","nuclear chromosome segregation",0.999995124773612,4.87579606600619e-06,1,0.0107,4.87579606600263e-06,TRUE
+"GO:0045892","biological_process","negative regulation of transcription, DNA-templated",0.999992867892384,7.13252316331126e-06,1,0.0169,7.13252316328386e-06,TRUE
+"GO:0006323","biological_process","DNA packaging",0.999990404595717,9.59678025669319e-06,1,0.0225,9.59678025673603e-06,TRUE

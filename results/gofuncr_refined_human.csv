@@ -1,0 +1,77 @@
+"node_id","ontology","node_name","raw_p_low_rank","raw_p_high_rank","FWER_low_rank","FWER_high_rank","refined_p_high_rank","signif"
+"GO:0006139","biological_process","nucleobase-containing compound metabolic process",1,0,1,0,0.0883683276354024,FALSE
+"GO:0006725","biological_process","cellular aromatic compound metabolic process",1,0,1,0,0.237477736398167,FALSE
+"GO:0010467","biological_process","gene expression",1,0,1,0,0.00187981060983062,FALSE
+"GO:0016070","biological_process","RNA metabolic process",1,0,1,0,2.7410105001368e-05,FALSE
+"GO:0034641","biological_process","cellular nitrogen compound metabolic process",1,0,1,0,0.561023066786096,FALSE
+"GO:0043170","biological_process","macromolecule metabolic process",1,0,1,0,0.605850287577107,FALSE
+"GO:0046483","biological_process","heterocycle metabolic process",1,0,1,0,0.119876194714202,FALSE
+"GO:0060255","biological_process","regulation of macromolecule metabolic process",1,0,1,0,0.068296348250651,FALSE
+"GO:0090304","biological_process","nucleic acid metabolic process",1,0,1,0,9.67658270457872e-05,FALSE
+"GO:1901360","biological_process","organic cyclic compound metabolic process",1,0,1,0,0.0673256003380983,FALSE
+"GO:0009889","biological_process","regulation of biosynthetic process",1,1.11022302462516e-16,1,0,0.241668623082188,FALSE
+"GO:0010556","biological_process","regulation of macromolecule biosynthetic process",1,1.11022302462516e-16,1,0,0.48870972173953,FALSE
+"GO:0019219","biological_process","regulation of nucleobase-containing compound metabolic process",1,1.11022302462516e-16,1,0,2.05712784628381e-05,TRUE
+"GO:0031326","biological_process","regulation of cellular biosynthetic process",1,1.11022302462516e-16,1,0,0.29224931756458,FALSE
+"GO:2000112","biological_process","regulation of cellular macromolecule biosynthetic process",1,1.11022302462516e-16,1,0,1.71678836575423e-05,TRUE
+"GO:0010468","biological_process","regulation of gene expression",1,3.33066907387547e-16,1,0,8.69608032226116e-05,FALSE
+"GO:0034645","biological_process","cellular macromolecule biosynthetic process",0.999999999999999,9.99200722162641e-16,1,0,0.31859841631586,FALSE
+"GO:0080090","biological_process","regulation of primary metabolic process",0.999999999999999,1.11022302462516e-15,1,0,0.244490682408145,FALSE
+"GO:0009059","biological_process","macromolecule biosynthetic process",0.999999999999999,1.4432899320127e-15,1,0,0.344290214201312,FALSE
+"GO:0051252","biological_process","regulation of RNA metabolic process",0.999999999999997,3.33066907387547e-15,1,0,0.00018668945584137,FALSE
+"GO:0019222","biological_process","regulation of metabolic process",0.999999999999995,4.88498130835069e-15,1,0,0.590969857903861,FALSE
+"GO:0051171","biological_process","regulation of nitrogen compound metabolic process",0.999999999999995,5.32907051820075e-15,1,0,0.390793130147778,FALSE
+"GO:0006807","biological_process","nitrogen compound metabolic process",0.999999999999975,2.50910403565285e-14,1,0,0.854597840868845,FALSE
+"GO:0032774","biological_process","RNA biosynthetic process",0.999999999999806,1.94400051611865e-13,1,0,0.00434728675986646,FALSE
+"GO:0071704","biological_process","organic substance metabolic process",0.999999999999735,2.647881913731e-13,1,0,0.987241672925906,FALSE
+"GO:0006351","biological_process","transcription, DNA-templated",0.999999999999637,3.63153951354889e-13,1,0,0.00713339615990025,FALSE
+"GO:0097659","biological_process","nucleic acid-templated transcription",0.999999999999637,3.63153951354889e-13,1,0,0.00713339615990025,FALSE
+"GO:0044260","biological_process","cellular macromolecule metabolic process",0.999999999999585,4.14890344302421e-13,1,0,0.86322123740569,FALSE
+"GO:0044271","biological_process","cellular nitrogen compound biosynthetic process",0.999999999999571,4.29545288227473e-13,1,0,0.00718722628052991,FALSE
+"GO:0031323","biological_process","regulation of cellular metabolic process",0.99999999999948,5.19695397827036e-13,1,0,0.963203038787302,FALSE
+"GO:2001141","biological_process","regulation of RNA biosynthetic process",0.999999999999014,9.85989068169602e-13,1,0,0.0146684120697585,FALSE
+"GO:0006355","biological_process","regulation of transcription, DNA-templated",0.99999999999886,1.13986597938265e-12,1,0,0.0164373139308885,FALSE
+"GO:1903506","biological_process","regulation of nucleic acid-templated transcription",0.99999999999886,1.13986597938265e-12,1,0,0.0164373139308885,FALSE
+"GO:0044238","biological_process","primary metabolic process",0.999999999998284,1.7160717291631e-12,1,0,0.956745209038907,FALSE
+"GO:0034654","biological_process","nucleobase-containing compound biosynthetic process",0.99999999999386,6.1398663930845e-12,1,0,0.0381863100052511,FALSE
+"GO:0018130","biological_process","heterocycle biosynthetic process",0.999999999991803,8.19722068001738e-12,1,0,0.0424194870978244,FALSE
+"GO:0019438","biological_process","aromatic compound biosynthetic process",0.999999999981864,1.81366033302766e-11,1,0,0.0620666508006097,FALSE
+"GO:1901362","biological_process","organic cyclic compound biosynthetic process",0.999999999975391,2.46102027645634e-11,1,0,0.0654277016635675,FALSE
+"GO:0009058","biological_process","biosynthetic process",0.999999999964182,3.58196805549937e-11,1,0,0.864243511252194,FALSE
+"GO:0044249","biological_process","cellular biosynthetic process",0.999999999961125,3.88767906756016e-11,1,0,0.88475771072119,FALSE
+"GO:1901576","biological_process","organic substance biosynthetic process",0.999999999956491,4.35113056695968e-11,1,0,0.878967253683361,FALSE
+"GO:0008152","biological_process","metabolic process",0.999999999906763,9.32411925447241e-11,1,0,0.999221131717812,FALSE
+"GO:0016071","biological_process","mRNA metabolic process",0.999999999855116,1.44897760456786e-10,1,0,8.40774590465912e-05,FALSE
+"GO:0044237","biological_process","cellular metabolic process",0.99999999655982,3.44033257437815e-09,1,0,0.999864220082516,FALSE
+"GO:0008380","biological_process","RNA splicing",0.999999994498628,5.50200118798472e-09,1,0,0.00672956322910361,FALSE
+"GO:0006366","biological_process","transcription by RNA polymerase II",0.99999999348363,6.51673592866331e-09,1,0,0.0988856545018451,FALSE
+"GO:0006357","biological_process","regulation of transcription by RNA polymerase II",0.999999980173831,1.98272639417851e-08,1,0,1.98272639137945e-08,TRUE
+"GO:0006397","biological_process","mRNA processing",0.999999962360678,3.7643223871342e-08,1,1e-04,0.0225913558621691,FALSE
+"GO:0031327","biological_process","negative regulation of cellular biosynthetic process",0.999999948261803,5.17414583400821e-08,1,1e-04,0.00172436288988858,FALSE
+"GO:0009890","biological_process","negative regulation of biosynthetic process",0.999999901097346,9.89086963443242e-08,1,2e-04,0.00396323892149233,FALSE
+"GO:0000377","biological_process","RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",0.999999881264365,1.18750368538478e-07,1,4e-04,1,FALSE
+"GO:0000398","biological_process","mRNA splicing, via spliceosome",0.999999881264365,1.18750368538478e-07,1,4e-04,1.18750368525498e-07,TRUE
+"GO:2000113","biological_process","negative regulation of cellular macromolecule biosynthetic process",0.999999862470797,1.37537733424509e-07,1,4e-04,0.0045558721363634,FALSE
+"GO:0010558","biological_process","negative regulation of macromolecule biosynthetic process",0.999999807376505,1.92635264295582e-07,1,4e-04,0.00699408176210679,FALSE
+"GO:0000375","biological_process","RNA splicing, via transesterification reactions",0.999999784248376,2.15777638201686e-07,1,5e-04,0.709027643500003,FALSE
+"GO:0045934","biological_process","negative regulation of nucleobase-containing compound metabolic process",0.999999775703,2.24311081042927e-07,1,6e-04,0.00536805243151588,FALSE
+"GO:0006396","biological_process","RNA processing",0.999999358636098,6.41407564394569e-07,1,9e-04,0.0141385527906357,FALSE
+"GO:0051276","biological_process","chromosome organization",0.999999293500226,7.06548081375047e-07,1,9e-04,0.000535758594462095,FALSE
+"GO:0098727","biological_process","maintenance of cell number",0.999998784328417,1.21586232615378e-06,1,0.0019,0.217461460777636,FALSE
+"GO:0019827","biological_process","stem cell population maintenance",0.999998319746167,1.68051717674977e-06,1,0.0025,1.6805171767204e-06,TRUE
+"GO:0031324","biological_process","negative regulation of cellular metabolic process",0.999998185601662,1.81448752578639e-06,1,0.003,0.0391246042981729,FALSE
+"GO:0051172","biological_process","negative regulation of nitrogen compound metabolic process",0.999998145953514,1.85414020414942e-06,1,0.0032,0.045091076133511,FALSE
+"GO:0051253","biological_process","negative regulation of RNA metabolic process",0.999997871734392,2.12839169211332e-06,1,0.0037,0.0779351245533802,FALSE
+"GO:0006974","biological_process","cellular response to DNA damage stimulus",0.999997103962675,2.8962382042641e-06,1,0.0054,2.89623820428435e-06,TRUE
+"GO:0022402","biological_process","cell cycle process",0.999996865308463,3.1348826695643e-06,1,0.0062,0.00516511007657256,FALSE
+"GO:0033554","biological_process","cellular response to stress",0.999996548446114,3.45171986315673e-06,1,0.0071,0.0424257033343099,FALSE
+"GO:0010605","biological_process","negative regulation of macromolecule metabolic process",0.999996496339102,3.50381977309855e-06,1,0.0073,0.0468138917237764,FALSE
+"GO:0006259","biological_process","DNA metabolic process",0.99999540177301,4.59854262124804e-06,1,0.0099,4.59854262124394e-06,TRUE
+"GO:0009892","biological_process","negative regulation of metabolic process",0.999995304444327,4.69575932449118e-06,1,0.01,0.0483141958980583,FALSE
+"GO:0098813","biological_process","nuclear chromosome segregation",0.999995124773612,4.87579606600619e-06,1,0.0107,4.87579606600263e-06,TRUE
+"GO:0045892","biological_process","negative regulation of transcription, DNA-templated",0.999992867892384,7.13252316331126e-06,1,0.0169,7.13252316328386e-06,TRUE
+"GO:1902679","biological_process","negative regulation of RNA biosynthetic process",0.999992867892384,7.13252316331126e-06,1,0.0169,1,FALSE
+"GO:1903507","biological_process","negative regulation of nucleic acid-templated transcription",0.999992867892384,7.13252316331126e-06,1,0.0169,1,FALSE
+"GO:0006323","biological_process","DNA packaging",0.999990404595717,9.59678025669319e-06,1,0.0225,9.59678025673603e-06,TRUE
+"GO:0007049","biological_process","cell cycle",0.999983491515522,1.65093118087434e-05,1,0.0392,0.00940478706318899,FALSE
+"GO:0071103","biological_process","DNA conformation change",0.999983204165296,1.6798050877842e-05,1,0.0401,0.374014268138872,FALSE
