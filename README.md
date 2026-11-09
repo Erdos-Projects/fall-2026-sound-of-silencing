@@ -2,7 +2,7 @@
 
 This project examines gene expression and predicted microRNA (miRNA) regulation in the prefrontal cortex of humans, chimpanzees, and rhesus macaques.
 
-**For full methods, figures, and results, see the [project report (Weeks 1–5)](./miRNA_mRNA_Project_Week1to5.docx) in the repository's main directory.**
+**For full methods, figures, and results, see the [project report (Weeks 1-5)](./miRNA_mRNA_Project_Week1to5.pdf) in the repository's main directory.**
 
 ---
 
@@ -53,7 +53,7 @@ Run Jupyter from the **main repository directory**, so relative paths such as `d
 
 Execute notebooks in numerical order: **`1a` → `1b` → `2` → `3` → `4a` → `4b` → `5` → `6` → `7` → `8`**. Some branches are independent, but this order ensures prerequisites are prepared first. Notably, `1b` reads the all-samples exports from `1a`, while `6` reads the selected early-development cohort from `1b`; `7` and `8` both read the differential-expression results from `6`. The Python notebooks use a Python kernel; notebook `8` uses an R kernel.
 
-**Raw input filenames expected in `data/`:** `GSE22521_series_matrix.txt`, `GSE22521_family.soft.gz`, `GPL6244.txt.gz`, `GSE29356_processed_data_pfc.txt`, `GSE29356_family.soft`, `miRBase12_human.csv`, `miR_Family_Info.txt`, `miRDB_v6.0_prediction_result.txt.gz`, and `GCF_000001405.40_GRCh38.p14_feature_table.txt.gz`. Notebook `7` additionally uses `sfari_human_genes_2026Q2.csv` as a required local source snapshot. The uploaded notebook does **not** download this file automatically if it is missing. The two derived SFARI category lists are saved to `results/`.
+**Raw input filenames expected in `data/`:** `GSE22521_series_matrix.txt`, `GSE22521_family.soft.gz`, `GPL6244.txt.gz`, `GSE29356_processed_data_pfc.txt`, `GSE29356_family.soft`, `miRBase12_human.csv`, `miR_Family_Info.txt`, `miRDB_v6.0_prediction_result.txt.gz`, and `GCF_000001405.40_GRCh38.p14_feature_table.txt.gz`. Notebook `7` additionally uses `sfari_human_genes_2026Q2.csv` as a required local source snapshot. The two derived SFARI category lists are saved to `results/`.
 
 The notebooks save randomly selected miRNA and mRNA regression figures (`3`, `results/pfc_mirna_random_regressions.png` and `results/pfc_mrna_random_regressions.png`), sample-level network features, a network trajectory figure and permutation-test results (`5`), differential-expression tables and a saved distribution plot (`6`), Fisher-test tables (`7`), and GO tables, an RDS result object and a summary figure (`8`) in `results/`. Figures and tables are also displayed in their notebook cells. In notebook `6`, the optional 12-gene profile figure is **displayed but not saved** because its `savefig` command is intentionally commented out.
 
