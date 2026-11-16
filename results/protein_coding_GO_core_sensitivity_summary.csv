@@ -1,0 +1,9 @@
+"analysis","total","Human_higher","Chimpanzee_higher"
+"GOfuncR ranked: FWER <= 0.05",273,88,185
+"Mean-t Freedman-Lane moderated t: BH FDR <= 0.10",0,0,0
+"Mean-t Freedman-Lane moderated t: max-stat FWER <= 0.05",4,4,0
+"Mean-rank Freedman-Lane moderated t: BH FDR <= 0.10",0,0,0
+"Mean-rank Freedman-Lane moderated t: max-stat FWER <= 0.05",0,0,0
+"CAMERA ranks, estimated correlation: BH FDR <= 0.10",0,0,0
+"CAMERA ranks, fixed correlation 0.05: BH FDR <= 0.10",0,0,0
+"CAMERA ranks, fixed correlation 0.01 reference: BH FDR <= 0.10",214,52,162

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.9.14)  7 NOV 2026 23:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.9.14)  15 NOV 2026 19:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -182,51 +182,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 54.
+(Font)              <10.95> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 54.
+(Font)              <8> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 54.
+(Font)              <6> on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
  []
 
 <mirna_seed_targets.png, id=14, 918.43124pt x 515.9275pt>
 File: mirna_seed_targets.png Graphic file (type png)
 <use mirna_seed_targets.png>
-Package pdftex.def Info: mirna_seed_targets.png  used on input line 64.
-(pdftex.def)             Requested size: 302.32648pt x 169.83148pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-
- []
-
+Package pdftex.def Info: mirna_seed_targets.png  used on input line 63.
+(pdftex.def)             Requested size: 303.89606pt x 170.7132pt.
 [2 <./mirna_seed_targets.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-
- []
-
-<target_instrength_cv.png, id=23, 320.8788pt x 278.9622pt>
-File: target_instrength_cv.png Graphic file (type png)
-<use target_instrength_cv.png>
-Package pdftex.def Info: target_instrength_cv.png  used on input line 80.
-(pdftex.def)             Requested size: 210.32158pt x 182.84714pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 82.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 82.
-<edge_score_dispersion.png, id=25, 317.988pt x 280.4076pt>
-File: edge_score_dispersion.png Graphic file (type png)
-<use edge_score_dispersion.png>
-Package pdftex.def Info: edge_score_dispersion.png  used on input line 86.
-(pdftex.def)             Requested size: 207.34477pt x 182.8404pt.
-[3 <./target_instrength_cv.png> <./edge_score_dispersion.png>] [4]
+<mrna_sd_human_chimp_traj.png, id=23, 2055.68pt x 1404.24625pt>
+File: mrna_sd_human_chimp_traj.png Graphic file (type png)
+<use mrna_sd_human_chimp_traj.png>
+Package pdftex.def Info: mrna_sd_human_chimp_traj.png  used on input line 81.
+(pdftex.def)             Requested size: 312.38506pt x 213.39194pt.
+ [3 <./mrna_sd_human_chimp_traj.png>] [4]
 (./Executive_Summary.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -234,35 +211,31 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2459 strings out of 476139
- 38289 string characters out of 5794454
+ 2439 strings out of 476139
+ 37914 string characters out of 5794454
  1929975 words of memory out of 5000000
- 24473 multiletter control sequences out of 15000+600000
- 572345 words of font info for 63 fonts, out of 8000000 for 9000
+ 24458 multiletter control sequences out of 15000+600000
+ 569892 words of font info for 58 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 57i,6n,65p,870b,268s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.60
-0pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.
-600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx100
-0.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
-200.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcr
+ 57i,6n,65p,870b,190s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.60
+0pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.
+600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm109
+5.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1
+095.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecr
 m1095.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-cti1095.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec
-/ecrm1095.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecbx1440.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappe
-n/ec/tcrm1000.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm1000.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jkn
-appen/ec/ecbx1095.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecbx1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Executive_Summary.pdf (4 pages, 238664 bytes).
+cbx1440.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec
+/tcrm1000.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm1000.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknappe
+n/ec/ecbx1095.600pk> </home/bjoern/.texlive2023/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecbx1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb>
+Output written on Executive_Summary.pdf (4 pages, 374199 bytes).
 PDF statistics:
- 409 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
+ 346 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

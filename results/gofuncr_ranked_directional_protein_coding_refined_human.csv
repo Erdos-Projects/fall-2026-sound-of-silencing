@@ -1,0 +1,20 @@
+"node_id","ontology","node_name","raw_p_low_rank","raw_p_high_rank","FWER_low_rank","FWER_high_rank","refined_p_high_rank","signif"
+"GO:2000112","biological_process","regulation of cellular macromolecule biosynthetic process",0.999999999999999,6.66133814775094e-16,1,0,7.75127709440316e-10,TRUE
+"GO:0051252","biological_process","regulation of RNA metabolic process",0.999999999999714,2.8599345114344e-13,1,0,2.11082755971853e-07,TRUE
+"GO:0006351","biological_process","transcription, DNA-templated",0.999999999983014,1.69874114774871e-11,1,0,8.82489754445437e-06,TRUE
+"GO:0006259","biological_process","DNA metabolic process",0.999999999812534,1.87484583413777e-10,1,0,8.73705081049709e-06,TRUE
+"GO:0051276","biological_process","chromosome organization",0.999999999799314,2.00703453856477e-10,1,0,5.42397034037415e-06,TRUE
+"GO:0006974","biological_process","cellular response to DNA damage stimulus",0.999999999686276,3.1375313458426e-10,1,0,1.22015587221498e-05,TRUE
+"GO:0000398","biological_process","mRNA splicing, via spliceosome",0.999999991712467,8.28866941748885e-09,1,0,8.28866936604331e-09,TRUE
+"GO:0000724","biological_process","double-strand break repair via homologous recombination",0.999999913777608,8.62376560162303e-08,1,1e-04,8.62376559951499e-08,TRUE
+"GO:0000070","biological_process","mitotic sister chromatid segregation",0.999999720805534,2.79238659084413e-07,1,2e-04,2.79238659081459e-07,TRUE
+"GO:0006357","biological_process","regulation of transcription by RNA polymerase II",0.999998947440396,1.05261102489873e-06,1,0.0011,1.05261102493717e-06,TRUE
+"GO:0051304","biological_process","chromosome separation",0.999995434982654,4.56584256425252e-06,1,0.0106,4.56584256422188e-06,TRUE
+"GO:0045934","biological_process","negative regulation of nucleobase-containing compound metabolic process",0.999992734308646,7.26609328638439e-06,1,0.0189,7.26609328639716e-06,TRUE
+"GO:0019827","biological_process","stem cell population maintenance",0.99999238848187,7.61264888582414e-06,1,0.0196,7.61264888580388e-06,TRUE
+"GO:0090307","biological_process","mitotic spindle assembly",0.999991318624014,8.68335116765984e-06,1,0.0222,8.68335116762354e-06,TRUE
+"GO:0006402","biological_process","mRNA catabolic process",0.999990879725816,9.12139275621726e-06,1,0.0231,9.12139275623954e-06,TRUE
+"GO:0044770","biological_process","cell cycle phase transition",0.999988189660723,1.18113201549308e-05,1,0.0292,1.18113201549078e-05,TRUE
+"GO:0006261","biological_process","DNA-dependent DNA replication",0.999988099422106,1.19022880319397e-05,1,0.0294,1.19022880319765e-05,TRUE
+"GO:0031327","biological_process","negative regulation of cellular biosynthetic process",0.999983569600752,1.64312371712105e-05,1,0.0413,1.64312371712548e-05,TRUE
+"GO:0071426","biological_process","ribonucleoprotein complex export from nucleus",0.999983068370495,1.69350980493421e-05,1,0.0427,1.69350980493048e-05,TRUE

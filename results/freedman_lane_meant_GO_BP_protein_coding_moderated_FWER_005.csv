@@ -1,0 +1,5 @@
+"node_id","node_name","NGenes","mean_moderated_t","species_direction","permutation_p","FDR_BH","FWER_maxstat"
+"GO:0035437","maintenance of protein localization in endoplasmic reticulum",11,2.51251730873902,"Human-higher",0.000999900009999,0.199851852926006,0.0234976502349765
+"GO:0090266","regulation of mitotic cell cycle spindle assembly checkpoint",13,2.35381219532377,"Human-higher",0.0050994900509949,0.199851852926006,0.0426957304269573
+"GO:1903504","regulation of mitotic spindle checkpoint",13,2.35381219532377,"Human-higher",0.0050994900509949,0.199851852926006,0.0426957304269573
+"GO:0016446","somatic hypermutation of immunoglobulin genes",10,2.31821076804204,"Human-higher",0.0064993500649935,0.199851852926006,0.0467953204679532

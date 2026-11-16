@@ -1,0 +1,5 @@
+class,n_genes,percent
+Protein-coding,225,89.6
+Pseudogene,10,4.0
+lncRNA/non-coding,9,3.6
+Unmapped,7,2.8

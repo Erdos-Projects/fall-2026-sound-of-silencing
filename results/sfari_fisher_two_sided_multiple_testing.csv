@@ -1,0 +1,3 @@
+sfari_category,selected_sfari_genes,selected_total,odds_ratio,two_sided_fisher_p,bonferroni_p,BH_FDR,significant_bonferroni_0_05,significant_BH_FDR_0_05
+Category 1,0,251,0.0,0.01584114966912429,0.03168229933824858,0.01584114966912429,True,True
+Categories 1 + 2,6,251,0.36060043852251644,0.007815852452078595,0.01563170490415719,0.01563170490415719,True,True

@@ -1,0 +1,17 @@
+scope,network_metric,heterogeneity_metric,pearson_r,p_value,n
+all_profiles,target_instrength_cv,mirna_seed_sd,0.5700009525929102,0.003638496081861869,24
+all_profiles,target_instrength_cv,mirna_seed_mad,0.5199811439861024,0.009200702265978473,24
+all_profiles,target_instrength_cv,mrna_sd,0.6507646181202528,0.0005743444588193646,24
+all_profiles,target_instrength_cv,mrna_mad,0.6103884579456236,0.0015371771911061533,24
+all_profiles,edge_score_dispersion,mirna_seed_sd,0.7472600781705482,2.7183417211165166e-05,24
+all_profiles,edge_score_dispersion,mirna_seed_mad,0.832801596620106,4.440098020993654e-07,24
+all_profiles,edge_score_dispersion,mrna_sd,0.5816227591005806,0.0028716646485375317,24
+all_profiles,edge_score_dispersion,mrna_mad,0.496119861069362,0.013675102710912166,24
+human_chimpanzee,target_instrength_cv,mirna_seed_sd,0.6889130862867254,0.0022239950947825346,17
+human_chimpanzee,target_instrength_cv,mirna_seed_mad,0.5819733331803135,0.014249783974103354,17
+human_chimpanzee,target_instrength_cv,mrna_sd,0.5460742578505124,0.023343852283816403,17
+human_chimpanzee,target_instrength_cv,mrna_mad,0.4976253161497737,0.04209284037263003,17
+human_chimpanzee,edge_score_dispersion,mirna_seed_sd,0.7739251799920901,0.00026671445286995576,17
+human_chimpanzee,edge_score_dispersion,mirna_seed_mad,0.8740300273649493,4.522312974653494e-06,17
+human_chimpanzee,edge_score_dispersion,mrna_sd,0.6385883592332015,0.005796650211646894,17
+human_chimpanzee,edge_score_dispersion,mrna_mad,0.567172545976006,0.017578669598234068,17
