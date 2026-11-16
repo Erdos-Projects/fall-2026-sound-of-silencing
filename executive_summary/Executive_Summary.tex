@@ -36,7 +36,7 @@ We used published measurements from \cite{so} from the \textbf{prefrontal cortex
 We studied four complementary questions:
 \begin{itemize}[leftmargin=1.35em,topsep=1pt,itemsep=1pt,parsep=0pt]
 \item \textbf{Regression analysis:} How much does gene and miRNA expression vary with species and age?
-\item \textbf{Autism:} Are genes differing in expression between infant humans and chimpanzees (< 100 days old) unusually likely to be autism-associated?
+\item \textbf{Autism:} Is there a relation between autism genes and genes differing in expression between infant humans and chimpanzees (< 100 days old)?
 \item \textbf{Gene Ontology:} Which broad biological functions distinguish the species' expression patterns in this fourth trimester?
 \item \textbf{Network analysis:} Do patterns of miRNA-gene regulation shift differently during life between humans and chimpanzees?\\
 \end{itemize}
@@ -75,21 +75,21 @@ For each of the 17 (7 humans, 10 chimpanzees) age-matched profiles, we combined 
 
 A subsequent \textbf{target-gene permutation test} showed, however, that these effects were not specific to the biological miRNA-target assignments. The observed statistics were typical of networks obtained after randomizing target labels. We therefore no longer interpret these two parameters as evidence for a network-specific miRNA regulatory effect.
 
-Further analysis suggests that the signal may instead reflect a broader change in \textbf{expression heterogeneity}. In particular, mRNA expression standard deviation decreased more strongly with age in humans than in chimpanzees (Freedman-Lane $p=0.0114$, BH FDR $=0.0456$; Figure 2).
+Further analysis shows that both parameters are correlated with \textbf{expression heterogeneity}. In particular, mRNA expression standard deviation decreased more strongly with age in humans than in chimpanzees (Freedman-Lane $p=0.0114$, BH FDR $=0.0456$; Figure 2).
 
 \begin{center}
 \includegraphics[width=0.9\linewidth,height=7.5cm,keepaspectratio]{mrna_sd_human_chimp_traj.png}\\[-2pt]
 {\small\textbf{Figure 2.} mRNA expression heterogeneity across development in human and chimpanzee PFC profiles. The fitted slope is negative in humans and approximately flat in chimpanzees.}
 \end{center}
 
-It remains to see if a \textbf{more sensitive version of the network analysis} can be developed to test whether any reproducible difference on the network level remains. 
+It remains to see if a \textbf{more sensitive version of the network analysis} can be developed to test whether reproducible differences on the network level remain. 
 
 \newpage
 
 \heading{Discussion}
 The revised analyses sharpen the interpretation of the project. Early human-chimpanzee differential expression remains visible after batch adjustment, SFARI autism-associated genes are significantly underrepresented among the selected genes. The GO results are more fragile: nominal neuronal/synaptic and cell-cycle/DNA-related themes are biologically suggestive but do not survive correlation-aware FDR control and therefore remain exploratory.
 
-For the miRNA-mRNA network, the two originally significant summary parameters did not survive a target-gene permutation test. The current evidence instead points toward a broader developmental reduction in mRNA expression heterogeneity in humans. We will investigate whether a more specific miRNA-mRNA regulatory signal can be recovered with a more sensitive model.
+For the miRNA-mRNA network, the two originally significant summary parameters did not survive a target-gene permutation test, but correlate with the simpler mRNA expression heterogeneity. This feature also shows a developmental reduction in humans. We will investigate whether a more specific miRNA-mRNA regulatory signal can be recovered with a more sensitive model.
 
 
 
