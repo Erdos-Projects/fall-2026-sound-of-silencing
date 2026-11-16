@@ -8,9 +8,7 @@ This project examines gene expression and predicted microRNA (miRNA) regulation 
 
 ## 1. Project Overview and Goals
 
-We study how messenger RNA (mRNA) and miRNA expression change with developmental age and between primate species. The main goals are to identify early human–chimpanzee expression differences, assess their functional and autism-gene associations, and compare life-history trajectories of predicted miRNA–mRNA networks.
-
-The current workflow incorporates the Week 5 review revisions: cross-species probe-mask verification, batch-adjusted differential expression, protein-coding gene annotation, revised SFARI Fisher tests, network-specificity tests, and correlation-aware Gene Ontology sensitivity analyses.
+We study how messenger RNA (mRNA) and miRNA expression change with developmental age and between primate species. The main goals are to identify early human–chimpanzee expression differences, assess their functional and autism-gene associations, and compare life-history trajectories of predicted miRNA–mRNA networks. The current state incorporates the revisions of the review from Week 5.
 
 ## 2. Source Data
 
@@ -55,9 +53,7 @@ Using **miRDB v6.0** predictions (score ≥ 80), we constructed a predicted seed
 
 The fixed network contains **156 seed families**, **7,039 target genes**, and **24,111 unique seed–gene edges**.
 
-The original network analysis identified two significant developmental parameters: target in-strength CV and edge-score dispersion. However, these effects **did not withstand target-gene label randomization**, indicating that they are not specific to the biological miRNA–target assignments. Further analysis showed that the network summaries track simpler expression heterogeneity. In particular, mRNA expression SD decreases more strongly with age in humans than in chimpanzees (Freedman–Lane p = 0.0114; BH FDR = 0.0456). The current interpretation is therefore that the apparent network signal may reflect a **developmental decrease in expression heterogeneity in humans**, rather than network-specific miRNA repression.
-
-Profiles are joined by species and chronological age; definitive accession-level donor validation is not encoded in the join.
+The original network analysis identified two significant developmental parameters: target in-strength CV and edge-score dispersion. However, these effects **did not withstand target-gene label randomization**, indicating that they are not specific to the biological miRNA–target assignments. Further analysis showed that the network summaries correlate with simpler expression heterogeneity. In particular, mRNA expression SD also decreases more strongly with age in humans than in chimpanzees (Freedman–Lane p = 0.0114; BH FDR = 0.0456). 
 
 ## 4. Main Results
 
