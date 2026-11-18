@@ -63,7 +63,7 @@ The original network analysis identified two significant developmental parameter
 - SFARI autism-associated genes are **underrepresented** among the 251 selected genes, with both two-sided Fisher tests remaining significant after correction across the two SFARI comparisons.
 - **GO interpretation is exploratory:** nominal chimpanzee-higher synaptic/neuronal-signalling and human-higher mitotic/checkpoint/chromosome/DNA-repair themes do not pass BH FDR ≤ 0.10 in the correlation-aware analyses.
 - The miRDB network contains **156 seed families**, **7,039 target genes**, and **24,111 unique seed–gene edges**.
-- The two originally significant network parameters do **not** survive network target-label randomization. The remaining developmental signal is better described as an **expression-heterogeneity effect**, with mRNA expression heterogeneity decreasing more strongly with age in humans.
+- The two originally significant network parameters do **not** survive network target-label randomization. The two parameters correlate with **expression-heterogeneity**. The simpler mRNA expression heterogeneity decreases more strongly with age in humans. It remains to see if a **more sensitive version of the network analysis** can be developed to test whether reproducible differences on the network level remain. 
 
 ## 5. Current Notebook Workflow and File Organization
 
